@@ -2,10 +2,12 @@
 
 A sleek and modern **BMI (Body Mass Index) Calculator** built with Flutter. This app provides an intuitive user experience using **Flutter themes, routing, and widgets** to enhance functionality and design.
 
+
 ## 📸 Screenshots
-<!-- Add your screenshots here -->
-![Screenshot 1](screenshots/image1.jpg)
-![Screenshot 2](screenshots/image2.jpg)
+
+<img src="screenshots/image1.jpg" alt="image 1" width="250"> 
+<img src="screenshots/image2.jpg" alt="image 2" width="250">
+
 
 
 ---
